@@ -65,7 +65,7 @@ TARGET_ENABLE_MEDIADRM_64 := true
 
 ### SEPOLICY
 #include device/qcom/sepolicy-legacy-um/sepolicy.mk
-BOARD_SEPOLICY_DIRS += device/sony/common-treble/sepolicy/vendor
+#BOARD_SEPOLICY_DIRS += device/sony/common-treble/sepolicy/vendor
 
 ### SYSTEM PROPS
 # This is a reset, add more in platform and device if needed
