@@ -17,6 +17,3 @@
 
 ### Devices
 /dev/block/platform/soc/1da4000\.ufshc/by-name/oem              u:object_r:oem_block_device:s0
-
-# vendor services
-/(vendor|system/vendor)/bin/ffu                                 u:object_r:vendor_ffu_exec:s0
